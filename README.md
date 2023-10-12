@@ -1,6 +1,6 @@
 # Thanks to CodeWithHarry Data Structures and Algorithms Playlist
 
-I want to express my gratitude to CodeWithHarry for their amazing Data Structures and Algorithms playlist. This playlist consists of 90 videos, and I started my learning journey from this playlist during my 3rd semester of college.
+I want to express my gratitude to CodeWithHarry for their amazing Data Structures and Algorithms using the C/C++ language playlist. This playlist consists of 90 videos, and I started my learning journey from this playlist during my 1st-year summer vacation break of college.
 
 ## Learning Journey Start Date
 - **Date:** 12th August 2021
